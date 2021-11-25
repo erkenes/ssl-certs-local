@@ -1,6 +1,6 @@
 # ssl-certs-local
 
-## Create fast SSl-Certificates
+## Create fast SSL-Certificates
 
 ### Root CA Cert
 
